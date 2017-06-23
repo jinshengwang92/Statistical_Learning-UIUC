@@ -1,4 +1,4 @@
-## This folder contains the projects I have cooperated with cooperation of Jifu Zhao (jzhao59@illinois.edu ).
+## This folder contains the projects I have cooperated with Jifu Zhao (jzhao59@illinois.edu ).
 
 These projects include:
 * 1-Iowa Housing Price Prediction.
